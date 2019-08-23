@@ -1,6 +1,6 @@
 As arrow function can not be re binded, value of `this` depends where the `arrow function` is defined.
 
-Similar way value of `argumnets` is distinguishing case in arrow function.
+Similar way value of `argumnets` is special case in arrow function.
 
 ```
 const fun1 = () => arguments
