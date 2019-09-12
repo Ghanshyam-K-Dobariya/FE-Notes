@@ -1,4 +1,4 @@
-This repo contains all JS & React related notes
+This repo contains all JS + React related notes & my interview learnings so far.
 
 **JS**
 
